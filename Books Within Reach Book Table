@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+  <table>
+    <caption><strong>Books Within Armreach</strong></caption>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Publication Year</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>Watchmen</td>
+        <td>Alan Moore</td>
+        <td>Graphic Novel</td>
+        <td>1987</td>
+      </tr>
+
+      <tr>
+        <td>Comedy Writing Secrets</td>
+        <td>Mel Helitzer</td>
+        <td>Nonfiction</td>
+        <td>2005</td>
+      </tr>
+
+      <tr>
+        <td>The Little Book of Lykke</td>
+        <td>Meik Wiking</td>
+        <td>Nonfiction</td>
+        <td>2017</td>
+      </tr>
+
+      <tr>
+        <td>The Ballad of Songbirds and Snakes</td>
+        <td>Suzanne Collins</td>
+        <td>Fiction</td>
+        <td>2020</td>
+      </tr>
+
+      <tr>
+        <td>The 7 Habits of Highle Effective People</td>
+        <td>Stephen Covey</td>
+        <td>Nonfiction</td>
+        <td>1989</td>
+      </tr>
+
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <td colspan="4">Total Books:5</td>
+        <td>5</td>
+      </tr>
+    </tfoot>
+  </table>
+<body>
+</body>
+
+</html>
